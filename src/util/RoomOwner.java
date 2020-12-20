@@ -2,7 +2,7 @@ package util;
 
 import java.io.Serializable;
 
-//½ºÅÍµğ·ë ÁÖÀÎ
+//ìŠ¤í„°ë””ë£¸ ì£¼ì¸
 public class RoomOwner extends User implements Serializable{
 
 	private String ownNo;
