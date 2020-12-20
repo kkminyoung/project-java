@@ -1,6 +1,6 @@
 package server;
 
-// 单捞磐海捞胶 技泼
+// 雿办澊韯半矤鞚挫姢 靹疙寘
 public interface DBsetting {
 	public static final String USER_TABLE = "serverDB/usertable/usertable.data";
 	public static final String MENU_LIST = "serverDB/menulist/";
