@@ -2,7 +2,7 @@ package util;
 
 import java.io.Serializable;
 
-// ¸Ş´º(½ºÅÍµğ·ë)°´Ã¼
+// ë©”ë‰´(ìŠ¤í„°ë””ë£¸)ê°ì²´
 public class Room implements Serializable {
 	//Field
 	private String menuNo;
