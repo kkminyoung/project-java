@@ -2,7 +2,7 @@ package util;
 
 import java.io.Serializable;
 
-// ¼¼¼Ç
+// ì„¸ì…˜
 public class Session implements Serializable{
 	private Object session;
 
