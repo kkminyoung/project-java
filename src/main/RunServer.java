@@ -3,7 +3,7 @@ package main;
 
 import server.MyServer;
 
-// ¼­¹ö ½ÇÇà
+// ì„œë²„ ì‹¤í–‰
 public class RunServer {
 	public static void main(String[] args) {
 		new MyServer().run();
