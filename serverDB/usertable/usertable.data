@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>changeReserStatus</comment>
+<entry key="ss">false,ss,ss,이화 스터디룸,01088121123,111111,서울특별시 서대문구 이화여대길,2~4인실,false</entry>
+<entry key="이화 스터디룸">false,이화 스터디룸,1111,육쌈냉면,02-3333-3333,서울특별시 서대문구,855348-41241234,1인실,false</entry>
+<entry key="minyoung">true,minyoung,hh,김민영,01033333333</entry>
+<entry key="hello">true,hello,hh,김이화,01077777777</entry>
+</properties>
