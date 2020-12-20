@@ -44,3 +44,6 @@ FinalProject
 ```
 main 폴더의 RunServer.java, RunClient.java를 실행하면 된다.
 ```
+
+![image](https://user-images.githubusercontent.com/61506233/102709784-cafb8e80-42f0-11eb-97ef-7f3fee44ff29.png)
+
