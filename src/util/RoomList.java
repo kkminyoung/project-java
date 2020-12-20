@@ -3,7 +3,7 @@ package util;
 import java.io.Serializable;
 import java.util.ArrayList;
 
-// ½ºÅÍµğ·ë ¹æ ¸®½ºÆ®
+// ìŠ¤í„°ë””ë£¸ ë°© ë¦¬ìŠ¤íŠ¸
 public class RoomList implements Serializable {
 private ArrayList<Room> roomList;
 
